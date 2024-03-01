@@ -1,0 +1,19 @@
+*{
+   
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.container{
+    background-color: aquamarine;
+    margin:10%;
+    padding: 10%;
+    border-radius: 5px;
+    box-shadow: rgb(36, 5, 5);
+
+
+}
+.btn{
+    background-color: gold;
+
+    border-radius: 4px;
+}
